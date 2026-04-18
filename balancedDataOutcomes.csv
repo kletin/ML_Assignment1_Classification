@@ -1,0 +1,65 @@
+Classifier Name,Training or test set,Balanced or unbalanced train set,Number of training samples,Number of non-healthy companies in training sample,True positives TP,True negatives TN,False positives FP,False negatives FN,ROC-AUC
+LDA,Train,Balanced,744,186,80,521,37,106,0.84
+LDA,Test,Unbalanced,744,186,28,2393,224,34,0.85
+Logistic Regression,Train,Balanced,744,186,68,530,28,118,0.84
+Logistic Regression,Test,Unbalanced,744,186,22,2435,182,40,0.84
+Decision Tree,Train,Balanced,744,186,186,558,0,0,1.0
+Decision Tree,Test,Unbalanced,744,186,33,2080,537,29,0.66
+Random Forest,Train,Balanced,744,186,186,558,0,0,1.0
+Random Forest,Test,Unbalanced,744,186,32,2398,219,30,0.87
+KNN,Train,Balanced,744,186,115,518,40,71,0.91
+KNN,Test,Unbalanced,744,186,36,2303,314,26,0.82
+Naive Bayes,Train,Balanced,744,186,107,489,69,79,0.83
+Naive Bayes,Test,Unbalanced,744,186,41,2230,387,21,0.85
+SVM,Train,Balanced,744,186,84,533,25,102,0.88
+SVM,Test,Unbalanced,744,186,23,2435,182,39,0.85
+Gradient Boosting,Train,Balanced,744,186,154,552,6,32,0.99
+Gradient Boosting,Test,Unbalanced,744,186,36,2351,266,26,0.86
+LDA,Train,Balanced,744,186,72,521,37,114,0.84
+LDA,Test,Unbalanced,744,186,24,2450,167,38,0.84
+Logistic Regression,Train,Balanced,744,186,60,528,30,126,0.84
+Logistic Regression,Test,Unbalanced,744,186,21,2480,137,41,0.84
+Decision Tree,Train,Balanced,744,186,186,558,0,0,1.0
+Decision Tree,Test,Unbalanced,744,186,25,2124,493,37,0.61
+Random Forest,Train,Balanced,744,186,186,558,0,0,1.0
+Random Forest,Test,Unbalanced,744,186,27,2439,178,35,0.83
+KNN,Train,Balanced,744,186,114,510,48,72,0.9
+KNN,Test,Unbalanced,744,186,28,2371,246,34,0.81
+Naive Bayes,Train,Balanced,744,186,96,487,71,90,0.82
+Naive Bayes,Test,Unbalanced,744,186,29,2326,291,33,0.82
+SVM,Train,Balanced,744,186,83,533,25,103,0.88
+SVM,Test,Unbalanced,744,186,22,2484,133,40,0.84
+Gradient Boosting,Train,Balanced,744,186,160,550,8,26,0.99
+Gradient Boosting,Test,Unbalanced,744,186,23,2413,204,39,0.82
+LDA,Train,Balanced,744,186,83,515,43,103,0.86
+LDA,Test,Unbalanced,744,186,25,2409,208,37,0.79
+Logistic Regression,Train,Balanced,744,186,70,524,34,116,0.86
+Logistic Regression,Test,Unbalanced,744,186,20,2449,168,42,0.79
+Decision Tree,Train,Balanced,744,186,186,558,0,0,1.0
+Decision Tree,Test,Unbalanced,744,186,28,2161,456,34,0.64
+Random Forest,Train,Balanced,744,186,186,558,0,0,1.0
+Random Forest,Test,Unbalanced,744,186,19,2411,206,43,0.82
+KNN,Train,Balanced,744,186,112,517,41,74,0.92
+KNN,Test,Unbalanced,744,186,24,2327,290,38,0.78
+Naive Bayes,Train,Balanced,744,186,100,488,70,86,0.85
+Naive Bayes,Test,Unbalanced,744,186,28,2291,326,34,0.78
+SVM,Train,Balanced,744,186,92,532,26,94,0.89
+SVM,Test,Unbalanced,744,186,22,2453,164,40,0.8
+Gradient Boosting,Train,Balanced,744,186,158,556,2,28,0.99
+Gradient Boosting,Test,Unbalanced,744,186,27,2383,234,35,0.81
+LDA,Train,Balanced,744,186,71,530,28,115,0.85
+LDA,Test,Unbalanced,744,186,26,2476,141,36,0.85
+Logistic Regression,Train,Balanced,744,186,63,530,28,123,0.85
+Logistic Regression,Test,Unbalanced,744,186,24,2494,123,38,0.85
+Decision Tree,Train,Balanced,744,186,186,558,0,0,1.0
+Decision Tree,Test,Unbalanced,744,186,32,2112,505,30,0.66
+Random Forest,Train,Balanced,744,186,186,558,0,0,1.0
+Random Forest,Test,Unbalanced,744,186,34,2440,177,28,0.89
+KNN,Train,Balanced,744,186,119,517,41,67,0.92
+KNN,Test,Unbalanced,744,186,37,2336,281,25,0.83
+Naive Bayes,Train,Balanced,744,186,87,495,63,99,0.83
+Naive Bayes,Test,Unbalanced,744,186,32,2324,293,30,0.84
+SVM,Train,Balanced,744,186,74,536,22,112,0.89
+SVM,Test,Unbalanced,744,186,25,2493,124,37,0.85
+Gradient Boosting,Train,Balanced,744,186,156,553,5,30,0.99
+Gradient Boosting,Test,Unbalanced,744,186,34,2397,220,28,0.87
