@@ -16,7 +16,7 @@
 
 ## Κωδικας σε μορφη python notebook για google colab
 
-[python notebook for google colab](ML_Assignment1_Classification.ipynb)
+[ML_Assignment1_Classification.ipynb](ML_Assignment1_Classification.ipynb)
 
 ## Πώς να τρέξετε το notebook στο Google Colab
 
