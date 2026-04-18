@@ -29,8 +29,9 @@
 
 ## Aποτελέσματα και Συμπεράσματα     
 
-[Αποτελεσματα csv](balancedDataOutcomes.csv)
-[Αποτελεσματα excel - μετρικες](balancedDataOutcomes.xlsx)
+[Αποτελεσματα csv](balancedDataOutcomes.csv).  
+[Αποτελεσματα excel - μετρικες](balancedDataOutcomes.xlsx).  
+
 
 [Classification Models για την Πρόβλεψη Χρεοκοπίας:Συγκριτική Μελέτη](bankruptcy_classification_report.pdf)
 
