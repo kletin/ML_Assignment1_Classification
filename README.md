@@ -1,37 +1,33 @@
 # ML_Assignment1_Classification
 
-## Μηχανική Μάθηση - 1η Εργασία – Classification problems
+## Machine Learning – Assignment 1: Classification Problems
 
-Ιανουάριος 2026
+January 2026
 
-Τιντικάκη Καλλιόπη Μαρία ics23088.  
-Κουιμτζίδου Ιορδάνα iis23049.  
-Κενανίδου Σωτηρία iis23162.  
-Τσιμπίνη Πετρούλα ics23085.  
+- Kalliopi Maria Tintikaki (ics23088)
+- Iordana Kouimtzidou (iis23049)
+- Sotiria Kenanidou (iis23162)
+- Petroula Tsimpini (ics23085)
 
-## Αντικείμενο της εργασίας
+## Assignment Description
 
-[1η εργασία Classification](1η%20εργασία%20Classification.pdf)
+[Assignment 1 – Classification](1η%20εργασία%20Classification.pdf)
 
-
-## Κωδικας σε μορφη python notebook για google colab
+## Code (Python notebook for Google Colab)
 
 [ML_Assignment1_Classification.ipynb](ML_Assignment1_Classification.ipynb)
 
-## Πώς να τρέξετε το notebook στο Google Colab
+## How to Run the Notebook in Google Colab
 
-1. Open Google Colab
-2. Click on "File" > "Upload notebook"
-3. Select ML_Assignment1_Classification.ipynb from your local machine and upload it.
-4. At Goole Drive, create a folder named "Datasets" and upload the dataset "Dataset2Use_Assignment1.xlsx" to that folder.
-5. Once the notebook is uploaded, you can run the whole notebook by clicking on "Runtime" > "Run all" or run individual cells by clicking on the play button next to each cell.
-6. You will need to login once more to allowed mounting your Google Drive to access the dataset. Follow the prompts to do so.
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Click **File** > **Upload notebook**.
+3. Select `ML_Assignment1_Classification.ipynb` from your computer and upload it.
+4. In your Google Drive, create a folder named `Datasets` and upload `Dataset2Use_Assignment1.xlsx` to it.
+5. Run the whole notebook with **Runtime** > **Run all**, or run individual cells by clicking the play button next to each one.
+6. When prompted, sign in to your Google account and allow Colab to mount your Google Drive so the notebook can access the dataset.
 
-## Aποτελέσματα και Συμπεράσματα     
+## Results and Conclusions
 
-[Αποτελεσματα csv](balancedDataOutcomes.csv).  
-[Αποτελεσματα excel - μετρικες](balancedDataOutcomes.xlsx).  
-
-
-[Classification Models για την Πρόβλεψη Χρεοκοπίας:Συγκριτική Μελέτη](bankruptcy_classification_report.pdf)
-
+- [Results (CSV)](balancedDataOutcomes.csv)
+- [Results and metrics (Excel)](balancedDataOutcomes.xlsx)
+- [Classification Models for Bankruptcy Prediction: A Comparative Study](bankruptcy_classification_report.pdf)
